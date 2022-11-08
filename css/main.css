@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*Propiedades del Div*/
+div{
+    width: 500px;
+    height: 350px;
+    border: 1px solid #000000;
+    margin: 2rem;
+
+    transform: rotate(40deg);
+    background-image: linear-gradient(tomato, black);
+}
